@@ -25,5 +25,5 @@
 
 ## 📫 Jak się ze mną skontaktować
 - E-mail: [kosimazaki207@gmail.com](mailto:kosimazaki207@gmail.com)  
-- Discord: [kokspefalpeiksde]
+- Discord: kokspefalpeiksde
 
