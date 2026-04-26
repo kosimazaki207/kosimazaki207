@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 O mnie
-- Pasjonuję się programowaniem, zwłaszcza projektami w Pythonie, C++ i C#.  
+- Pasjonuję się programowaniem, zwłaszcza projektami w Pythonie
 - Interesuję się technologiami blockchain, AI oraz automatyzacją.  
 - W wolnym czasie testuję gry i tworzę projekty open-source.
 
@@ -17,7 +17,7 @@
 ---
 
 ## 🌱 Obecnie uczę się
-- Zaawansowanego programowania w C#  
+- Zaawansowanego programowania w pythonie
 - Automatyzacji procesów i tworzenia botów  
 - Nowych algorytmów i technik w programowaniu  
 
